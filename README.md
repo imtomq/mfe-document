@@ -1,2 +1,1 @@
-# Microfrontend là gì?
 
